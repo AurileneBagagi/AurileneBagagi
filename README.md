@@ -1,4 +1,4 @@
-## Olá, eu sou Aurilene Bagagi, desenvolvedora de back-end!
+## Olá, eu sou Aurilene Bagagi, desenvolvedora back-end!
 <div align="center">
   <a href="https://github.com/AurileneBagagi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AurileneBagagi&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
