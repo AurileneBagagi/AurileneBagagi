@@ -1,4 +1,4 @@
-## Olá, eu sou Aurilene Bagagi, umka desenvolvedora back-end aprendendo front-end!
+## Olá, eu sou Aurilene Bagagi, uma desenvolvedora back-end aprendendo front-end!
 <div align="center">
   <a href="https://github.com/AurileneBagagi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AurileneBagagi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
