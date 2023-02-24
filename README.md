@@ -1,7 +1,6 @@
 ## Olá, eu sou Aurilene Bagagi, uma desenvolvedora back-end aprendendo front-end!
 <div align="center">
   <a href="https://github.com/AurileneBagagi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AurileneBagagi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AurileneBagagi&theme=github-dark-blue"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurileneBagagi&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
 </div>
@@ -12,8 +11,7 @@
   <img align="center" alt="Auri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Auri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Auri-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Auri-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+  <img align="center" alt="Auri-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   
   ##
  
