@@ -1,4 +1,4 @@
-## Olá, eu sou Aurilene Bagagi, uma desenvolvedora back-end aprendendo front-end!
+## Olá, eu sou Aurilene Bagagi, uma desenvolvedora back-end!
 <div align="center">
   <a href="https://github.com/AurileneBagagi">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AurileneBagagi&theme=github-dark-blue"/>
