@@ -1,9 +1,5 @@
 ## Olá, eu sou Aurilene Bagagi, uma desenvolvedora back-end!
-<div align="center">
-  <a href="https://github.com/AurileneBagagi">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AurileneBagagi&theme=github-dark-blue"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurileneBagagi&layout=compact&langs_count=24&theme=github_dark&count_private=true"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Auri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
